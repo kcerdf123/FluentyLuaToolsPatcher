@@ -1,6 +1,8 @@
 # FluentyLuaToolsPatcher
 
-A lightweight compatibility patch that resolves functional, layout, and visual conflicts between the **Steam Fluenty skin** and the **LuaTools** client modification. Built and verified for the latest releases of both the theme and plugin (and should continue to work after updates)! **Big shoutout to Kristijan1001 over at the Discord for giving me the idea to do this with the v2 plugin!**
+A lightweight compatibility patch that resolves functional, layout, and visual conflicts between the **Steam Fluenty skin** and the **LuaTools** client modification. Built and verified for the latest releases of both the theme and plugin (and should continue to work after updates)! 
+
+**Big shoutout to _Kristijan1001_ over at the Discord for giving me the idea to do this with the v2 plugin! Without his base patch, this wouldn't be possible.**
 
 ## Key Features
 
