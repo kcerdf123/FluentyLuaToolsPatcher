@@ -11,7 +11,7 @@ A lightweight compatibility patch that resolves functional, layout, and visual c
 
 ## Installation
 
-1. Run the patcher script (`patcher.bat` / script file).
+1. Run the patcher script (LuaTools Fluenty Theme Patch.py script file). Make sure you have the regular version of Python (from here: https://www.python.org/downloads/) installed or this will **not** work!
 2. The patcher will attempt to locate your LuaTools directory automatically.
 3. If automatic detection fails, enter the full path to your `luatools.js` file when prompted (located inside your LuaTools installation folder).
-4. Restart Steam to apply the changes.
+4. Restart Steam AND LuaTools to apply the changes.
